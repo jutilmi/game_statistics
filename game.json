@@ -1,0 +1,9 @@
+{
+    "number" : 12345,
+    "home_team" : "Oranssit",
+    "home_team_details" : "team_oranssit.json",
+    "away_team" : "Valkoiset",
+    "away_team_details" : "team_valkoiset.json",
+    "total_period_time_in_minutes" : 20,
+    "periods" : 2
+}

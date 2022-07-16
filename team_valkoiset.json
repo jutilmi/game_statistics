@@ -1,0 +1,14 @@
+{
+    "name" : "Valkoiset",
+    "main_color" : "valkoinen",
+    "shirt_color" : "valkoinen",
+    "shorts_color" : "punainen",
+    "players" : [
+        "1 - Vaa Pee",
+        "7 - Vee Hee",
+        "9 - Vee Lee",
+        "11 - Vii Bii",
+        "33 - Vu Le",
+        "99 - Vo Phu San"
+    ]
+}
