@@ -1,5 +1,5 @@
 # Kuvaus
-Pieni ohjelma tilastoseurantaan erityisesti jalkapalloa varten, mutta voi käyttää myös muissa lajeissa.
+Pieni ohjelma tilastoseurantaan erityisesti jalkapalloa varten, mutta voi käyttää myös muissa lajeissa. Käyttöliittymä on tehty tkinter-moduulilla ja ttk-widgeteillä.
 
 ## Ohjelmallinen tavoite
 Projektissa on keskitytty dokumentointiin, ja se on kirjoitettu suomenkielisellä käyttöliittymällä käyttäen englanninkielisiä muuttujia.
