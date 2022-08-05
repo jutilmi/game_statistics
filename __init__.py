@@ -1,4 +1,4 @@
 import gamestatistics
 
-__AUTHOR__ = "Mikko Jutila"
-__VERSION__ = 0.1
+__author__ = "Mikko Jutila"
+__version__ = 0.1
